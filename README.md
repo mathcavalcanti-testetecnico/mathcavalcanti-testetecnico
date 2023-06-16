@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mathcavalcanti-testetecnico
-- 🌱 Account for Automated Front and Backend Tests
+- 🌱 Account for front-end and back-end automated testing exercises;
 
 
 <!---
